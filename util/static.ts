@@ -6,4 +6,5 @@ export const RegionTimeZoneMapping: { [K in RegionKey]: string } = {
   'EU Central': 'UTC+1',
   'EU West': 'UTC-0',
   'South America': 'UTC-4',
+  '俄服': 'UTC+3'
 }
