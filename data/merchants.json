@@ -21,7 +21,7 @@
       "Ozhorn Hill": "2suO3M1.png",
       "Saland Hill": "32mF4gP.png"
     },
-    "schedule": 1,
+    "schedule": 2,
     "items": {
       "rapport": [70503001, 70500003, 70501001],
       "cards": [63200185, 63200227, 63200102],
@@ -38,7 +38,7 @@
       "Medrick Monastery": "jCa7R1i.png",
       "Mount Zagoras": "M76MErL.png"
     },
-    "schedule": 2,
+    "schedule": 1,
     "items": {
       "rapport": [70500013, 70500011, 70500006, 70501002],
       "cards": [63200191, 63200188, 63200106],
@@ -53,7 +53,7 @@
       "Flowering Orchard": "oqTzPl3.png",
       "Sunbright Hill": "tC2tklW.png"
     },
-    "schedule": 1,
+    "schedule": 2,
     "items": {
       "rapport": [70500012, 70500007, 70500008, 70501002],
       "cards": [63200192, 63200226, 63200104, 63200024],
@@ -70,7 +70,7 @@
       "Croconys Seashore South": "f1En5HM.png",
       "Leyar Terrace": "ZM5Nt76.png"
     },
-    "schedule": 2,
+    "schedule": 1,
     "items": {
       "rapport": [70500012, 70500007, 70500008, 70501002],
       "cards": [63200111, 63200118, 63200024],
@@ -86,7 +86,7 @@
       "Skyreach Steppe": "x64d9w3.png",
       "Sweetwater Forest": "aHDyBpo.png"
     },
-    "schedule": 2,
+    "schedule": 1,
     "items": {
       "rapport": [70500015, 70500016, 70500014, 70501003],
       "cards": [63200197, 63200122, 63200030],
@@ -103,7 +103,7 @@
       "Rattan Hill": "SsV57qW.png",
       "Twilight Mists": "DChixrV.png"
     },
-    "schedule": 1,
+    "schedule": 2,
     "items": {
       "rapport": [70503000, 70501004],
       "cards": [63200206, 63200205, 63200228, 63200008],
@@ -121,7 +121,7 @@
       "Tottrich": "MHmE0lW.png",
       "Windbringer Hill": "Kwnt0uN.png"
     },
-    "schedule": 2,
+    "schedule": 1,
     "items": {
       "rapport": [70503006, 70501005],
       "cards": [63200174, 63200136, 63200035],
@@ -155,7 +155,7 @@
       "Icewing Heights": "bZYrlmi.png",
       "Lake Eternity": "0enqUWE.png"
     },
-    "schedule": 1,
+    "schedule": 2,
     "items": {
       "rapport": [70503005, 70501007],
       "cards": [63200209, 63200144, 63200038],
@@ -172,7 +172,7 @@
       "Lake Shiverwave": "kRuC2GT.png",
       "Xeneela Ruins": "D2o5eDU.png"
     },
-    "schedule": 2,
+    "schedule": 1,
     "items": {
       "rapport": [70500056, 70500034, 70500033, 70501010],
       "cards": [63200108, 63200158, 63200050],
@@ -202,7 +202,7 @@
     "locations": {
       "Kalaja": "ajlrAvm.png"
     },
-    "schedule": 1,
+    "schedule": 2,
     "items": {
       "rapport": [70500040, 70500038, 70500039, 70501008],
       "cards": [63200171, 63200170, 63200057],
@@ -218,7 +218,7 @@
       "Tikatika Colony": "GUpNFlg.png",
       "Secret Forest": "K5cVDTh.png"
     },
-    "schedule": 2,
+    "schedule": 1,
     "items": {
       "rapport": [70500060, 70500059, 70500061, 70501011],
       "cards": [63200308, 63200310, 63200309, 63200305],
